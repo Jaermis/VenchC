@@ -12,3 +12,5 @@
 8. Factorial Calculator
 9. LCM of Two Numbers
 10. Number of Denominations (Money)
+
+*username and password can be configured in the c file.*
