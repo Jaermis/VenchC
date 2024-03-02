@@ -118,6 +118,9 @@ mainmenu:
 				case 10:
 					nDenom();
 					break;
+				case 11:
+					goto mainmenu;
+					break;
 				default:
 					printf("Unexisting Activity!");
 					break;
@@ -149,6 +152,7 @@ void menu()
 	printf("8. Factorial Calculator\n");
 	printf("9. LCM of Two Numbers\n");
 	printf("10. Number of Denominations (Money)\n");
+	printf("11. Logout\n");
 	printf("-> ");
 }
 
