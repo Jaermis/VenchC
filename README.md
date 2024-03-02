@@ -13,4 +13,4 @@
 9. LCM of Two Numbers
 10. Number of Denominations (Money)
 
-*username and password can be configured in the c file.*
+*username and password can be configured in the c file or can be changed within the application itself.*
